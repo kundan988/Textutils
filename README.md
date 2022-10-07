@@ -1,0 +1,2 @@
+# Textutils
+Creating a website in which we can edit the texts according to the wish of user with all the available facilities. In this we can have the feature of converting our text to uppercase from lower case and from lower case to uppercase.  It will also have the feature of counting the number of words and characters in our text,and having light mode and dark mode,copying all the texts in a single click. It can also tell the reading time of the written text and also will have a feature of removing extra spaces.
